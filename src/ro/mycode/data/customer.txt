@@ -1,0 +1,5 @@
+1,Alexandtu Mihalache,0712345678,FizzyPenguin89@email.com,Bucuresti,FizzyPenguin89,pass123
+2,Marian Neagoe,0789456123,GalacticExplorer42@mail.net,Bucuresti,GalacticExplorer42,pass432@
+3,Iulian Plesa,0752485635,RubyPhoenix77@fakeemail.org,Calarasi,RubyPhoenix77,password123@
+4,Ionut Olbu,07658423599,TechGuru99@pseudomail.net,Ilfov,TechGuru99,password481*
+5,Marius Enache,0723555648,MysticDreamer24@fictitiousmail.com,Brasov,MysticDreamer24,dummypass123$

@@ -1,0 +1,5 @@
+1,Surface,Acest sistem este utilizat in mod obisnuit in zonele unde terenul nu este o problema, cum ar fi zonele suburbane si rurale.
+2,Automated,Sistemul utilizeaza senzori si camere pentru a ghida masina intr-un spatiu de parcare desemnat.
+3,Valet,Acest tip de sistem de parcare este utilizat in mod obisnuit in hoteluri, restaurante si centre comerciale.
+4,Stack,Acest sistem este utilizat in mod obisnuit in parcarile cu etaje si facilitatile de parcare subterane.
+5,Multi-level,Acest sistem este folosit in mod obisnuit in zonele urbane unde terenul este scump si spatiul de parcare este limitat.

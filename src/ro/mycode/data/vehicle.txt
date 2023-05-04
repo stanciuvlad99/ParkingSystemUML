@@ -1,0 +1,5 @@
+1,1,CL17SVA,Ford,limousine,Mondeo-albastru-2016
+2,1,CL99SVA,Dacia,sedan,Logan-gri-2007
+3,3,B01VLA,BMW,sedan,Seria 5-negru-2020
+4,4,B47AKA,Mercedes,SUV,GLE-alb-2016
+5,5,BV19VRR,Audi,sedan,A5-negru-2017

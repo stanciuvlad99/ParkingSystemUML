@@ -1,0 +1,5 @@
+1,HourlyPack,Parcare la ora,Parcarea la ora este de obicei taxata la o rata fixa pe ora iar utilizatorii pot alege sa parcheze pentru o perioada mai lunga sau mai scurta in functie de nevoile lor.,1-23 ore
+2,DailyPack,Parcare zilnica,Parcarea zilnică este de obicei taxată la o rata fixa pe zi iar utilizatorii pot alege să parcheze pentru o singura zi sau mai multe.,1-31 zile
+3,MonthlyPack,Parcare lunara,Parcarea lunară este de obicei taxată la o rata fixa pe luna iar utilizatorii sunt garantati un loc de parcare specific pentru durata contractului lor.,1-12 luni
+4,YearlyPack,Parcare anuala,Parcarea anuala este de obicei taxată la o rata fixa pe an iar utilizatorii sunt garantati un loc de parcare specific pentru durata contractului lor.,1-10 ani
+5,ValetPack,Parcare cu valet,Parcarea cu valet este de obicei taxata la tarif orar sau zilnic iar utilizatorii pot alege sa parcheze pentru o perioada mai lunga sau mai scurta in functie de nevoile lor.,nedeterminat
